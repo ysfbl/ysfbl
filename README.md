@@ -6,13 +6,11 @@ I build web applications end to end: React/TypeScript frontends, Python and Node
 
 ## What I do
 
-- **B2B portals and internal tools:** order management, approval workflows and reporting, integrated with ERP systems through REST APIs.
-- **ERP customization:** PL/SQL business logic, module customization and report design on Oracle-based ERP.
-- **AI features:** a RAG-based technical support assistant built on the Claude API, a vector database and n8n automation.
-- **Search and recommendation:** a personalized article recommendation engine built with Django, Elasticsearch and MongoDB.
-- **Healthcare web portal:** role-aware React UI for clinicians and patients, plus the Linux deployment and release pipeline, built as a university capstone.
-- **Cross-platform expense tracking:** web and mobile app with automated reporting, a PostgreSQL schema, Node.js REST APIs, and deployment on Azure.
-- **DevOps:** provisioning Linux servers from scratch and building CI/CD pipelines for production deployment.
+- Web apps and internal tools, from UI to database
+- REST APIs and ERP integrations
+- AI features with LLMs and RAG
+- Search and recommendation systems
+- Linux deployment and CI/CD
 
 ## Tech stack
 
